@@ -1,3 +1,6 @@
+## basic Algorithm for a webspider. Initial development.
+## Made by Kim Runar
+
 import urlparse
 import urllib
 from BeautifulSoup import BeautifulSoup
