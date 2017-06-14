@@ -5,7 +5,7 @@ import urlparse
 import urllib
 from BeautifulSoup import BeautifulSoup
 
-url = "http://www.hornindal-fotball.no"
+url = ""
 
 urls = [url]  # stack of urls to scrape
 visited =  [url] #historic record of urls
